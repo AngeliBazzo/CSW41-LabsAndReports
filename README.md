@@ -47,7 +47,7 @@ são:
 
 Uma imagem da Connected LaunchPad com as caracteristicas pricipais destacadas pode ser vista a seguir:
 
-![Imagem da placa com suas principais caracteristicas destacadas](/imagens/placa-caracteristica_principais/.png)
+![Imagem da placa com suas principais caracteristicas destacadas](/imagens/placa-caracteristica_principais.png)
 
 
 
