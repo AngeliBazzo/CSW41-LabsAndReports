@@ -47,7 +47,17 @@ são:
 
 Uma imagem da Connected LaunchPad com as caracteristicas pricipais destacadas pode ser vista a seguir:
 
-![Imagem da placa com suas principais caracteristicas destacadas](/imagens/placa-caracteristica_principais.png)
+![placa-caracteristica_principais](https://user-images.githubusercontent.com/51659435/227579485-6333d170-811e-48f0-b10f-e32b302bc2a8.PNG)
+
+A principio os GPIOs necessários para o desenvolvimento dessa atividade serão os seguintes: PJ e PJ1 (botões); PN1, PN0, PF4 e PF0 (LEDs).
+
+# Estudo da plataforma de SW
+
+# Projeto (design) da solução
+
+# Configuração do projeto na IDE (IAR).
+
+# Teste e depuração.
 
 
 
