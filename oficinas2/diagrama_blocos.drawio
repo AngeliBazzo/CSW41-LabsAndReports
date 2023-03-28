@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net" modified="2023-03-28T12:41:28.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="_WwEoMb0LlRfj_iaFHgZ" version="21.1.1" type="device">
+  <diagram name="Página-1" id="qaSdFbt0vFk1w8-0QRgm">
+    <mxGraphModel dx="548" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K-Ovf4jEbWBJWLc7WqOu-39" value="&lt;ul style=&quot;font-size: 8px;&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Georgia&quot;&gt;Visualizar os dados da máquina&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Georgia&quot;&gt;Realizar pedidos de compra&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="K-Ovf4jEbWBJWLc7WqOu-17" target="K-Ovf4jEbWBJWLc7WqOu-16">
+          <mxGeometry x="-0.3333" y="25" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-Ovf4jEbWBJWLc7WqOu-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;align=left;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="K-Ovf4jEbWBJWLc7WqOu-16" target="K-Ovf4jEbWBJWLc7WqOu-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="312.5" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-Ovf4jEbWBJWLc7WqOu-43" value="&lt;ul style=&quot;font-size: 8px;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot;&gt;Recebe dados de estoque&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot;&gt;Recebe o status da máquina&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot;&gt;Envia dados de compra&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="K-Ovf4jEbWBJWLc7WqOu-40">
+          <mxGeometry x="0.0757" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-Ovf4jEbWBJWLc7WqOu-16" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.cell_phone;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="350" width="35" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="K-Ovf4jEbWBJWLc7WqOu-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_face_48px-128.png" vertex="1" parent="1">
+          <mxGeometry x="20" y="350" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="K-Ovf4jEbWBJWLc7WqOu-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://esp32s3.com/images/vector_tinys3.png;" vertex="1" parent="1">
+          <mxGeometry x="275" y="233.75" width="75" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="K-Ovf4jEbWBJWLc7WqOu-28" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://thumb.cadbull.com/img/product_img/original/cereal_dispenser_3d_drawing_in_skp_file._22082018055406.png;" vertex="1" parent="1">
+          <mxGeometry x="39.62" y="33.75" width="200.38" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="K-Ovf4jEbWBJWLc7WqOu-30" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#000000;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/sensor.svg;" vertex="1" parent="1">
+          <mxGeometry x="178.75" y="47.5" width="42.5" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="K-Ovf4jEbWBJWLc7WqOu-42" value="M" style="verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;strokeWidth=1;shape=ellipse;aspect=fixed;fontSize=35;" vertex="1" parent="1">
+          <mxGeometry x="181.88" y="130" width="41.25" height="41.25" as="geometry" />
+        </mxCell>
+        <mxCell id="K-Ovf4jEbWBJWLc7WqOu-44" value="&lt;font color=&quot;#949494&quot; style=&quot;font-size: 8px;&quot;&gt;sensores de estoque&amp;nbsp;&lt;br&gt;e identificação de&amp;nbsp;&lt;br&gt;embalagem&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="150" y="11.25" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K-Ovf4jEbWBJWLc7WqOu-49" value="&lt;font color=&quot;#949494&quot; style=&quot;font-size: 8px;&quot;&gt;balança&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="178.13" y="171.25" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="K-Ovf4jEbWBJWLc7WqOu-51" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/scale-128.png" vertex="1" parent="1">
+          <mxGeometry x="181.88" y="191.25" width="42.5" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="K-Ovf4jEbWBJWLc7WqOu-52" value="&lt;font color=&quot;#949494&quot; style=&quot;font-size: 8px;&quot;&gt;mecanismo de&amp;nbsp;&lt;br&gt;dispensa&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K-Ovf4jEbWBJWLc7WqOu-55" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K-Ovf4jEbWBJWLc7WqOu-18" target="K-Ovf4jEbWBJWLc7WqOu-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="294" y="159.23" as="sourcePoint" />
+            <mxPoint x="331" y="108.22999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="212" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-Ovf4jEbWBJWLc7WqOu-56" value="&lt;ul style=&quot;font-size: 8px;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot;&gt;Recebe dados dos sensores de estoque&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot;&gt;Recebe dados da Id. de embalagem&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot;&gt;Recebe dados do peso do grão despejado&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot;&gt;Controla o mecanismo de despejamento&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="K-Ovf4jEbWBJWLc7WqOu-55">
+          <mxGeometry x="0.0757" y="-1" relative="1" as="geometry">
+            <mxPoint x="44" y="-81" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-Ovf4jEbWBJWLc7WqOu-59" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K-Ovf4jEbWBJWLc7WqOu-18" target="K-Ovf4jEbWBJWLc7WqOu-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="141" as="sourcePoint" />
+            <mxPoint x="312" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="312" y="151" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-Ovf4jEbWBJWLc7WqOu-61" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;align=left;fillColor=#f5f5f5;strokeColor=#666666;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K-Ovf4jEbWBJWLc7WqOu-18" target="K-Ovf4jEbWBJWLc7WqOu-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="294" y="111" as="sourcePoint" />
+            <mxPoint x="331" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-Ovf4jEbWBJWLc7WqOu-63" value="&lt;ul style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 8px;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font face=&quot;Georgia&quot;&gt;Altera entre estados&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K-Ovf4jEbWBJWLc7WqOu-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;align=left;fillColor=#f5f5f5;strokeColor=#666666;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="K-Ovf4jEbWBJWLc7WqOu-18" target="K-Ovf4jEbWBJWLc7WqOu-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="284.75" as="sourcePoint" />
+            <mxPoint x="387" y="233.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
